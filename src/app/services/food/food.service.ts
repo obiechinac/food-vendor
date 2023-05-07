@@ -47,7 +47,7 @@ return this.getAll().filter(food=>
         favorite: false,
         origins: ['italy'],
         stars: 4.5,
-        imageUrl: '/assets/images/foods/food1.jpeg',
+        imageUrl: 'assets/images/foods/food1.jpeg',
         tags: ['FastFood', 'Pizza', 'Lunch'],
       },
       {
@@ -58,7 +58,7 @@ return this.getAll().filter(food=>
         favorite: true,
         origins: ['persia', 'middle east', 'china'],
         stars: 4.7,
-        imageUrl: '/assets/images/foods/food2.jpeg',
+        imageUrl: 'assets/images/foods/food2.jpeg',
         tags: ['SlowFood', 'Lunch'],
       },
       {
@@ -69,7 +69,7 @@ return this.getAll().filter(food=>
         favorite: false,
         origins: ['germany', 'us'],
         stars: 3.5,
-        imageUrl: '/assets/images/foods/food3.jpeg',
+        imageUrl: 'assets/images/foods/food3.jpeg',
         tags: ['FastFood', 'Hamburger'],
       },
       {
@@ -80,7 +80,7 @@ return this.getAll().filter(food=>
         favorite: true,
         origins: ['belgium', 'france'],
         stars: 3.3,
-        imageUrl: '/assets/images/foods/food4.jpeg',
+        imageUrl: 'assets/images/foods/food4.jpeg',
         tags: ['FastFood', 'Fry'],
       },
       {
@@ -91,7 +91,7 @@ return this.getAll().filter(food=>
         favorite: false,
         origins: ['india', 'asia'],
         stars: 3.0,
-        imageUrl: '/assets/images/foods/food5.jpeg',
+        imageUrl: 'assets/images/foods/food5.jpeg',
         tags: ['SlowFood', 'Soup'],
       },
       {
@@ -102,7 +102,7 @@ return this.getAll().filter(food=>
         favorite: false,
         origins: ['italy'],
         stars: 4.0,
-        imageUrl: '/assets/images/foods/food6.jpeg',
+        imageUrl: 'assets/images/foods/food6.jpeg',
         tags: ['FastFood', 'Pizza', 'Lunch'],
       },
   ];
